@@ -22,17 +22,9 @@ Block new requests [to allow notifications](https://blog.mozilla.org/firefox/no-
 
 ## Plugins
 
-[Pinboard+](https://addons.mozilla.org/en-US/firefox/addon/pinboard-plus/?src=search)
+Plugins whose source code is available is preferred.
 
-> A better firefox extension for Pinboard (http://pinboard.in).
-
-Source code [pinboard-firefox](https://github.com/lostsnow/pinboard-firefox) 
-
-[Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
-
-> Privacy Badger automatically learns to block invisible trackers. Instead of keeping lists of what to block, Privacy Badger learns by watching which domains appear to be tracking you as you browse the Web.
-> 
-> Privacy Badger sends the Do Not Track signal with your browsing. If trackers ignore your wishes, your Badger will learn to block them. Privacy Badger starts blocking once it sees the same tracker on three different websites.
-
-<hr>
-
+* [Pinboard+](https://github.com/lostsnow/pinboard-firefox) - Firefox extension for Pinboard.
+* [uBlock Origin](https://github.com/gorhill/uBlock) - General purpose blocker for ads and resouce hogging JavaScript.
+* [Privacy Badger](https://privacybadger.org) - send *Do Not Track* signal and block invisble trackers.
+* [HTTPS Everywhere](https://www.eff.org/https-everywhere) - rewrite requests to HTTPS
