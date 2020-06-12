@@ -5,6 +5,22 @@ A repo for my FireFox browser settings and configurations
 
 <hr>
 
+## Search Engine
+
+I prefer DDG and use only that.
+
+## History
+
+I've set my browser to clear history as soon as I exit the browser. This helps to be mindful on what I work and check my social media consumption.
+
+<img width="774" alt="history" src="https://user-images.githubusercontent.com/1156953/84503536-07ae5380-acd8-11ea-80d0-eb9b69852ec3.png">
+
+## AddressBar
+
+Show only the URLs that I typed after the last exit. No need to suggest popular sites.
+
+<img width="566" alt="addressbar" src="https://user-images.githubusercontent.com/1156953/84503577-1b59ba00-acd8-11ea-9ff1-add2a5398b74.png">
+
 ## Notification
 
 If you want to stop all sites from ever asking you whether to allow notifications. Set `dom.webnotifications.enabled` to `false`.
