@@ -59,6 +59,6 @@ Plugins whose source code is available is preferred.
 * [Privacy Badger](https://privacybadger.org) - send *Do Not Track* signal and block invisble trackers.
 * [HTTPS Everywhere](https://www.eff.org/https-everywhere) - rewrite requests to HTTPS
 * [Wave](https://wave.webaim.org/) - WAVE Web Accessibility Evaluation Tool 
-* [ClearURLs](https://docs.clearurls.xyz/1) - Remove `utm_source`, `utm_medium`, `utm_campaign` and similar tracking parameters from URL before loading them.
+* [ClearURLs](https://docs.clearurls.xyz) - Remove `utm_source`, `utm_medium`, `utm_campaign` and similar tracking parameters from URL before loading them.
 * [TabPro](https://github.com/sridharrajs/tabpro) - My Open source addon for closing tabs with shortcuts.
 
