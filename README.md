@@ -58,7 +58,8 @@ Plugins whose source code is available is preferred.
 * [uBlock Origin](https://github.com/gorhill/uBlock) - General purpose blocker for ads and resouce hogging JavaScript.
 * [Privacy Badger](https://privacybadger.org) - send *Do Not Track* signal and block invisble trackers.
 * [HTTPS Everywhere](https://www.eff.org/https-everywhere) - rewrite requests to HTTPS
-* [Wave](https://wave.webaim.org/) - WAVE Web Accessibility Evaluation Tool 
+* [Wave](https://wave.webaim.org/) - WAVE Web Accessibility Evaluation Tool #a11y
+* [axe DevTools - Web Accessibility Testing](https://addons.mozilla.org/en-US/firefox/addon/axe-devtools/) - Accessibility auditing on the Firefox Developer Tools #a11y
 * [ClearURLs](https://docs.clearurls.xyz) - Remove `utm_source`, `utm_medium`, `utm_campaign` and similar tracking parameters from URL before loading them.
 * [TabPro](https://github.com/sridharrajs/tabpro) - My Open source addon for closing tabs with shortcuts.
 
